@@ -123,7 +123,7 @@ class HTML{
 
 // Uso
 // Crear instancia y definir nombre del contenedor padre (#), nombre común de hijos (.) y un objeto de flex (configuración)
-// Definir método OrderDivs, con un parámetro array contenedor del conjunto de hijos, en el orden en que que quieran mostrarse
+// Definir método OrderDivs, con un parámetro array contenedor del conjunto de hijos, en el orden en que que quieran mostrarse (No usar el 0)
 // Definir método RScreens para que se den los cambios de flexibilidad según resolución
 
 //Los valores de estas llaves se pueden modificar, no las llaves
