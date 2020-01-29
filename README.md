@@ -4,7 +4,7 @@
 
 Existen las media query y muchas formas de hacer responsive design, por eso no recomiendo usar esta clase imperfecta. Esta es tan solo una práctica humilde de javascript puro, uso de clase, constructor, scope, objetos, props, childrend, bind, setInterval, método nativo screen, etc.
 
-Para utilizar la clase, solo se necesita crear el index.html, y en una etiqueta script importar la clase. Hacer un div contenedor con una id, y dentro del mismo crear divs hijos con un nombre común de clase. Tanto la ID como el nombre común de clase serán definidos en la la clase importada:  
+Para utilizar la clase, solo se necesita crear el index.html, y en una etiqueta script importar la clase. Hacer un div contenedor con una id, y dentro del mismo crear divs hijos con un nombre común de clase. Tanto la ID como el nombre común de clase serán definidos en la clase importada:  
 
 # Uso de la clase  
 
