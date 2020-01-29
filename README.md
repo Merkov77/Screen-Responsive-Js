@@ -29,5 +29,3 @@ const html = new HTML("root","children",flex)
 html.OrderDivs([7,2,3,4,5,1])  
 html.RScreens()   
 ~~~  
-
-Listo
