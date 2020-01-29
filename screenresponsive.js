@@ -41,11 +41,6 @@ class HTML{
 		this.padre.style.flexFlow = "row wrap";
 
 		this.hijos = document.getElementsByClassName(`${this.divHijos}`);
-
-		this.orderChildren.map((e,i) => {
-			// this.hijos[i].style.flexGrow = "1";
-			// this.hijos[i].style.flexBasis = "100%";
-			})
 	}
 
 	OrderDivs(divOrder){ //Order Childs
