@@ -12,7 +12,7 @@ Para utilizar la clase, solo se necesita crear el index.html, y en una etiqueta 
 2.- Definir método OrderDivs, con un parámetro array contenedor del conjunto de hijos, en el orden en que que quieran mostrarse (No usar el 0).  
 3.- Definir método RScreens para que se den los cambios de flexibilidad según resolución.    
 
-> Los valores de las llaves del objeto flex, se pueden modificar, no se deben alterar las llaves.  El uso del objeto flex es obligatorio.
+> Los valores de las llaves del objeto flex, se pueden modificar, no se deben alterar las llaves.  El uso del objeto flex es requerido.
   
 ~~~  
 let flex = {  
