@@ -14,16 +14,19 @@ Para utilizar la clase, solo se necesita crear el index.html, y en una etiqueta 
 
 // Los valores de estas llaves se pueden modificar, no las llaves.  
   
+~~~  
 let flex = {  
+
 	header: "1 1 auto",  
 	section : "3 0",  
 	aside : "2 0",  
 	footer : "1 1 auto",  
 	other : "2 0 25%" //40% it's fine   
+	
 }  
   
 const html = new HTML("root","children",flex)  
 html.OrderDivs([7,2,3,4,5,1])  
-html.RScreens()  
-
+html.RScreens()   
+~~~  
 //Listo
