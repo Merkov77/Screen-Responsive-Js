@@ -1,4 +1,4 @@
-# Screen-Responsive-Js, Responsive Design en HTML sin uso de Media Query ni nada similar
+# Screen-Responsive-Js, Responsive Design en HTML sin uso de Media Query ni nada similar, Js Puro
 
 ![](sr.gif)
 
