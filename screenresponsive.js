@@ -64,8 +64,8 @@ class HTML{
 			this.orderChildren = [1,1,1,1,1,1,1]
 		}
 
-		if(window.screen.width <= 749) { // Resolution <= 600px
-			console.log("<=600")
+		if(window.screen.width <= 749) { // Resolution <= 749px
+			console.log("<= 749")
 			this.orderChildren.map((e,i) =>{
 				this.hijos[i].style.order = `${e}`;
 				this.hijos[i].style.flex = "1 1 auto";
