@@ -82,8 +82,8 @@ class HTML{
 
 				this.props = { //Update  by resolution change
 					header : header,
-					section : section.split(" ")[0] = String(Number(section.split(" ")[0])) + " 0 ",
-					aside : aside.split(" ")[0] = String(Number(section.split(" ")[0])) + " 0 ",
+					section : String(Number(section.split(" ")[0])) + " 0 ",
+					aside : String(Number(section.split(" ")[0])) + " 0 ",
 					footer : footer,
 					other : other
 				}
