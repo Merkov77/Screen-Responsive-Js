@@ -22,7 +22,7 @@ let flex = {
 	other : "2 0 25%" //40% it's fine   
 }  
   
-let html = new HTML("root","children",flex)  
+const html = new HTML("root","children",flex)  
 html.OrderDivs([7,2,3,4,5,1])  
 html.RScreens()  
 
